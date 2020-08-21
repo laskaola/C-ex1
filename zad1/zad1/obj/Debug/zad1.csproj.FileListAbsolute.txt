@@ -1,0 +1,10 @@
+C:\Users\Olcia wpierdolcia\Desktop\si szarp\zad1\zad1\obj\Debug\zad1.csprojAssemblyReference.cache
+C:\Users\Olcia wpierdolcia\Desktop\si szarp\zad1\zad1\obj\Debug\zad1.Properties.Resources.resources
+C:\Users\Olcia wpierdolcia\Desktop\si szarp\zad1\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
+C:\Users\Olcia wpierdolcia\Desktop\si szarp\zad1\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\Olcia wpierdolcia\Desktop\si szarp\zad1\zad1\bin\Debug\zad1.exe.config
+C:\Users\Olcia wpierdolcia\Desktop\si szarp\zad1\zad1\bin\Debug\zad1.exe
+C:\Users\Olcia wpierdolcia\Desktop\si szarp\zad1\zad1\bin\Debug\zad1.pdb
+C:\Users\Olcia wpierdolcia\Desktop\si szarp\zad1\zad1\obj\Debug\zad1.Form1.resources
+C:\Users\Olcia wpierdolcia\Desktop\si szarp\zad1\zad1\obj\Debug\zad1.exe
+C:\Users\Olcia wpierdolcia\Desktop\si szarp\zad1\zad1\obj\Debug\zad1.pdb
